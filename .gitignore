@@ -1,3 +1,6 @@
+custom-annotations/.idea/
+custom-annotations/target/
+
 # Compiled class file
 *.class
 
